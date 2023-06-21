@@ -1,2 +1,2 @@
-# Thyke
-Fintech FIAP
+# FIAP
+Projetos FIAP
